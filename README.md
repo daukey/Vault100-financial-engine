@@ -1,7 +1,7 @@
 # Vault100-financial-engine
 financial management tool designed to streamline cash flow tracking with precision
 
-How will Kasa100 work? (General flow and process overview)
+How will Vault100 work? (General flow and process overview)
 
 1. Authentication System:
 
